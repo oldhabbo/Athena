@@ -1,0 +1,12 @@
+[submodule "src/vendor/log"]
+	path = src/vendor/log
+	url = https://github.com/emansom/log.c
+	branch = master
+[submodule "src/vendor/collections"]
+	path = src/vendor/collections
+	url = https://github.com/srdja/Collections-C
+	branch = master
+[submodule "src/vendor/cthreadpool"]
+	path = src/vendor/cthreadpool
+	url = https://github.com/Pithikos/C-Thread-Pool
+	branch = master
